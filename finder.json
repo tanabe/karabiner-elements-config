@@ -2,7 +2,7 @@
     "title": "Improve Finder navigation for Vim users.",
     "rules": [
         {
-            "description": "Up and Down arrows",
+            "description": "[Finder] jk as Up and Down arrows",
             "manipulators": [
                 {
                     "type": "basic",
